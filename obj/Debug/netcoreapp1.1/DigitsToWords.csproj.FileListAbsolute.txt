@@ -1,0 +1,8 @@
+/Users/josepharcelo/src/digits-to-words/DigitsToWords/bin/Debug/netcoreapp1.1/DigitsToWords.deps.json
+/Users/josepharcelo/src/digits-to-words/DigitsToWords/bin/Debug/netcoreapp1.1/DigitsToWords.runtimeconfig.json
+/Users/josepharcelo/src/digits-to-words/DigitsToWords/bin/Debug/netcoreapp1.1/DigitsToWords.runtimeconfig.dev.json
+/Users/josepharcelo/src/digits-to-words/DigitsToWords/bin/Debug/netcoreapp1.1/DigitsToWords.dll
+/Users/josepharcelo/src/digits-to-words/DigitsToWords/bin/Debug/netcoreapp1.1/DigitsToWords.pdb
+/Users/josepharcelo/src/digits-to-words/DigitsToWords/obj/Debug/netcoreapp1.1/DigitsToWords.AssemblyInfo.cs
+/Users/josepharcelo/src/digits-to-words/DigitsToWords/obj/Debug/netcoreapp1.1/DigitsToWords.dll
+/Users/josepharcelo/src/digits-to-words/DigitsToWords/obj/Debug/netcoreapp1.1/DigitsToWords.pdb
